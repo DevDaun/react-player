@@ -150,6 +150,7 @@ class App extends Component {
         <section className='section'>
           <h1>ReactPlayer Demo</h1>
           <div className='player-wrapper'>
+            
             <ReactPlayer
               ref={this.ref}
               className='react-player'
